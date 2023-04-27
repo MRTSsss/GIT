@@ -20,5 +20,3 @@ if ( a<b && a<c && a<d && a<e ){
     console.log("e=",e,"too hamgiin baga");
 }
     
-sdkfjsk
-dfgd
