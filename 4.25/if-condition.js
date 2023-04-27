@@ -1,6 +1,4 @@
-if ( x== null ) {
-    alert("utga oruulna uu hooson bna");
-}
+
 let x = prompt("x-dung oruul");
 
 console.log(x);
